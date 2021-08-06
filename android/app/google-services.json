@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997551638298",
+    "project_id": "rappappnew",
+    "storage_bucket": "rappappnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997551638298:android:7256b7220fbaf2fb500ea3",
+        "android_client_info": {
+          "package_name": "com.example.rappappnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997551638298-9tki5au88ahnh1ush70ngn7eec40r0k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJkrUEJa3R0VnMqsDac5P7u2zhopeZA_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997551638298-9tki5au88ahnh1ush70ngn7eec40r0k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
